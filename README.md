@@ -1,4 +1,4 @@
-![header](header.png)
+![header](assets/header.jpg)
 
 ### Hi there 👋
 
