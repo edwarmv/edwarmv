@@ -9,7 +9,7 @@
 * 🔭 I’m currently working on web apps with Angular
 * 🌱 I’m currently learning Docker, Next.js
 * 💬 Ask me about React, Angular, Express, NestJS
-* 📫 How to reach me
+* 📫 How to reach me **edwar_martinez_vale@icloud.com**
 * 👨‍💻 All of my projects are available at my [portfolio](https://edwarmv.github.io/portfolio/)
 * ⚡ Fun fact: I ❤️ working on the terminal
 
